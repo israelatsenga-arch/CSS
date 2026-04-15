@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+.P1{
+    font-style: italic;
+}
+.P2{font-weight: 900;}
+#P3{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#P4{font-size:smaller;}
+#Pn{line-height: 200%;}
+.color{color:blueviolet;}
+h1{color:aqua;}
